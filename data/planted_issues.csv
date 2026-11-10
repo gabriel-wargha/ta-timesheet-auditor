@@ -1,0 +1,17 @@
+ta_id,week,issue,details
+TA044,5,Duplicate entry,2026-10-14 entered twice
+TA046,7,Duplicate entry,2026-10-29 entered twice
+TA034,7,Over 8 hours in a day,2026-10-31: one entry of 10.0 hours
+TA003,5,Over 8 hours in a day,2026-10-14: two entries totalling 9.0 hours
+TA029,2,Zero or negative hours,2026-09-21 logged 0.0 hours
+TA013,7,Zero or negative hours,2026-10-28 logged -2.0 hours
+TA008,7,Over 20 hours in a week,5 days x 4.5 hours = 22.5 hours
+TA048,6,Date outside pay period,"2026-10-19 changed to 2026-10-18, before the period starts"
+TA036,3,Date outside pay period,"2026-10-01 changed to 2026-09-27, before the period starts"
+TA011,2,Late submission,submitted 2026-09-29 09:15:00
+TA011,5,Late submission,submitted 2026-10-21 09:15:00
+TA017,6,Late submission,submitted 2026-10-27 09:15:00
+TA014,4,Missing week,no entries this week
+TA045,3,Name spelled two ways,'Jacob Dixon' and 'Jacob Dixno'
+TA018,6,Hours dropping,weeks 3 to 6: 12.5 -> 10 -> 6 -> 4 hours
+TA024,,Far below team average,"0.5 hours per day, all 7 weeks"
