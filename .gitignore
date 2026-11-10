@@ -1,0 +1,18 @@
+# Python virtual environment (everyone creates their own)
+.venv/
+
+# Files Python and pytest create while running
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# The Excel report is rebuilt by report.py, so it isn't stored in Git
+output/
+
+# Personal study plan (kept out of the repo)
+plan.md
+PLAN.md
+
+# Mac and editor files
+.DS_Store
+.vscode/
